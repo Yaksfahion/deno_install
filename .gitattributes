@@ -1,2 +1,5 @@
+def print_hist(h):
+for c in h:
+print(c,h[c]
 *       text=auto
 *.sh    text eol=lf
